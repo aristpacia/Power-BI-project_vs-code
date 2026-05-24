@@ -1,0 +1,5 @@
+the insight derived from this dashboard are:
+
+1. cal Sales
+2. New York Region
+3. Washington has the most Discount
