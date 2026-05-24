@@ -7,4 +7,4 @@ tools used:
 
 * **Power BI**
 
-* ** Microsoft excel**
+* **Microsoft excel**
